@@ -1,0 +1,51 @@
+*{
+	text-align:center;
+	font-size:18px;
+}
+
+
+body {
+background-color:  #777;
+font-style: "Georgia",Times New Roman,Times,serif;
+color: #ebebeb;
+margin: 40px;
+}
+
+
+h2, p{
+color: #777;
+}
+
+
+.sec, .asid{
+background-color: #ebebeb;
+float:left;
+width: 45.6%;
+height: 220px;
+margin: 1.5%;
+padding: 5px;
+}
+
+
+#artic {
+background-color: #777;
+color: #ebebeb;
+margin: 0 1.5% 0 1.5%;
+padding: 0 0 10px 0;
+}
+
+
+#secH, #secP{
+background-color: #ebebeb;
+margin: 0 1.5% 0 1.5%;
+}
+
+
+header, footer, .navigator{
+background-color: #ebebeb;
+color: #777;
+width: 95%;
+margin: 1.5%;
+padding: 5px;
+clear: both;
+}
